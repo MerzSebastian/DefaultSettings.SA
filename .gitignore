@@ -1,0 +1,22 @@
+# build output
+out/
+build/
+dist/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.asi
+*.zip
+
+# logs and dumps
+*.log
+*.log.old
+*.dmp
+
+# local scratch
+tools/local/
+.vs/
+.vscode/
+__pycache__/
+*.pyc
